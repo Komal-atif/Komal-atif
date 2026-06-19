@@ -99,6 +99,22 @@ but are built around how people actually want to use them.
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Komal-atif/Komal-atif/main/divider.svg" width="100%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Komal-atif/Komal-atif/main/snake_header.svg" width="100%" alt="contribution graph"/>
+
+<div align="center">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Komal-atif/Komal-atif/output/github-snake.svg" width="100%" alt="github snake"/>
+
+</div>
+
+<br/>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Komal-atif/Komal-atif/main/divider.svg" width="100%"/>
 <sub>BUILT WITH INTENTION · UPDATED 2026</sub>
