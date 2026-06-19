@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+
+  <defs>
+    <pattern id="grid_05" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#262626" stroke-width="1" opacity="0.4"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="110" fill="#0a0a0a"/>
+  <rect width="900" height="110" fill="url(#grid_05)"/>
+
+
+  <line x1="0" y1="24" x2="900" y2="24" stroke="#262626" stroke-width="1"/>
+  <line x1="0" y1="24" x2="160" y2="24" stroke="#c41e3a" stroke-width="1.5">
+    <animate attributeName="x1" values="0;740;0" dur="5s" begin="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="160;900;160" dur="5s" begin="1.5s" repeatCount="indefinite"/>
+  </line>
+
+
+  <text x="38" y="64" font-family="'Space Grotesk',monospace" font-weight="700" font-size="26" fill="#fafafa">
+    <tspan fill="#c41e3a">05</tspan><tspan dx="14">/ CONTRIBUTION GRAPH</tspan>
+  </text>
+
+
+  <rect x="40" y="90" width="6" height="6" fill="#737373" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.0s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="56" y="90" width="6" height="6" fill="#737373" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="72" y="90" width="6" height="6" fill="#737373" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="88" y="90" width="6" height="6" fill="#737373" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="104" y="90" width="6" height="6" fill="#737373" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="120" y="90" width="6" height="6" fill="#737373" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="136" y="90" width="6" height="6" fill="#c41e3a" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="860" y="64" text-anchor="end" font-family="'Space Grotesk',monospace" font-size="10"
+        letter-spacing="2" fill="#737373">ACTIVITY.SVG</text>
+
+</svg>
